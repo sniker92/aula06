@@ -1,0 +1,14 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+}
+audio{
+    background-color: rgb(17, 34, 48);
+    color: rgb(17,34,48);
+}
+header{
+    align-items: center;
+}
+li{
+    display: inline-block;
+}
